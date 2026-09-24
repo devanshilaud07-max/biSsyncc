@@ -1,0 +1,8 @@
+{
+  "name": "BISync — Intelligent Indian Standards Assistant",
+  "description": "A conversational guide to Indian Standards and BIS certification — grounded in official sources, built for mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
